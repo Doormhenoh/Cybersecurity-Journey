@@ -45,7 +45,7 @@ Platforms: Kali Linux, Windows Server, VMware, Metasploitable
 
 
 ## Connect with Me
-- [LinkedIn]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/victor-dominic-1a48a72b8/?trk=opento_sprofile_topcard))  
+- [LinkedIn](https://www.linkedin.com/in/victor-dominic-1a48a72b8/?trk=opento_sprofile_topcard)  
 - [Email](mailto:victordominic12@gmail.com)  
 
 
