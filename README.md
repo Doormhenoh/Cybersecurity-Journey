@@ -1,8 +1,7 @@
 # Hi there, I'm Dominic
 
 Aspiring Cybersecurity Professional | Pursuing CompTIA Security+ and ISC2CC
-<br/>Building hands-on projects that simulate real-world attack and defense scenarios  
-<br/>Sharing my learning journey and practical projects here on GitHub  
+<br/>Building hands-on projects that simulate real-world attack and defense scenarios <br/>Sharing my learning journey and practical projects here on GitHub  
 
 
 ## Current Focus
